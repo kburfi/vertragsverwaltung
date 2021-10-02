@@ -1,2 +1,6 @@
 # vertragsverwaltung
-Sample project with Spring Boot, PostgreSQL, Lombok &amp; MapStruct
+
+Build:
+- use AdoptOpenJdk 11
+- build with gradle ('./gradlew clean build')
+- start Spring Boot ('./gradlew bootRun')
